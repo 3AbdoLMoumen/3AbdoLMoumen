@@ -75,10 +75,9 @@ Active researcher in medical imaging and multimodal AI
 - **NVIDIA GTC** — 2 research posters; one featured in the GTC keynote presentation (Skin disease Detection using Deep Learning; Makeup Foundation suggestion system)
 
 ### Local & National (Algeria)
-- **Biskra Takra** — Speaker
-- **Tougourt Conference** — Speaker
-- **Algeria 2.0** — Speaker, [The Simple ML that works]
-
+- **Bachelor degree** — 18.07/20
+- **Speaker at Multiple National Conferences** Biskra Takra — Speaker; Tougourt Conference — Speaker; Algeria 2.0 — Speaker, [The Simple ML that works]
+- **Among the winners at a national writing conference "Aklam Biladi Akbil** — French Story Writing
 ---
 
 ## Open To
